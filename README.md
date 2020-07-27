@@ -1,5 +1,6 @@
 # sapore_sapere
-Objective
+
+Objective: to extend the relationships among BLE devices to form groups in PAN
 
   Turn a smartphone into a mobile BLE device in restricted internet-accessible environment.
   An reduced features of Exposure Notifications System of Google and Apple
